@@ -10,8 +10,7 @@
 
 # Approach
 
-[Approach](/docs/sprint.md)
-
+[Approach](/UA-Bball-Wearable-Project/sprint)
 
 # Tech Stack
 
@@ -23,7 +22,7 @@
 | [OpenCV](https://opencv.org/)      | CV execution |
 | [SQLite](https://sqlite.org/)      | Store roster info and stats |
 
-[More on Tech](/docs/tech.md)
+[Technology](/UA-Bball-Wearable-Project/tech)
 
 
 # Documentation
